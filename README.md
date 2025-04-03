@@ -13,7 +13,7 @@ Il consiste à créer une page de profil où l'on partage nos liens sur les rés
 
 [Aperçu du profil version desktop](https://github.com/jlepan/faq-accordion/blob/main/design/desktop-design.jpg)
 
-[Aperçu du profil version mobile](https://github.com/jlepan/faq-accordion/main/design/mobile-design.jpg)
+[Aperçu du profil version mobile](https://github.com/jlepan/faq-accordion/blob/main/design/mobile-design.jpg)
 
 [Aperçu du profil lorsque l'on passe sur les liens](https://github.com/jlepan/faq-accordion/blob/main/design/active-states.jpg)
 
@@ -27,11 +27,11 @@ Il consiste à créer une page de profil où l'on partage nos liens sur les rés
 
 ## Projet en ligne
 
-[Voir le projet en ligne]()
+[Voir le projet en ligne](https://jlepan.github.io/faq-accordion/)
 
 ## Installation
    ```bash
-   git clone https://github.com/jlepan/social-links-profile.git
+   git clone https://github.com/jlepan/faq-accordion.git
    ```
 2. Ouvrir le fichier index.html dans le navigateur pour voir la page.
 
