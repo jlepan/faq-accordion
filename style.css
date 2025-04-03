@@ -30,6 +30,7 @@ a {
 
 a:hover {
     text-decoration: underline;
+    transition: 300ms;
 }
 
 .background-top {
@@ -95,6 +96,7 @@ h2 {
 
 h2:hover {
     color: #AD28EB;
+    transition: 300ms
 }
 
 .more, .less {
