@@ -11,19 +11,19 @@ Il consiste à créer une page de profil où l'on partage nos liens sur les rés
 
 ## Modèles fournis
 
-[Aperçu du profil version desktop](https://github.com/jlepan/faq-accordion-main/blob/main/design/desktop-design.jpg)
+[Aperçu du profil version desktop](https://github.com/jlepan/faq-accordion/blob/main/design/desktop-design.jpg)
 
-[Aperçu du profil version mobile](https://github.com/jlepan/faq-accordion-main/main/design/mobile-design.jpg)
+[Aperçu du profil version mobile](https://github.com/jlepan/faq-accordion/main/design/mobile-design.jpg)
 
-[Aperçu du profil lorsque l'on passe sur les liens](https://github.com/jlepan/faq-accordion-main/blob/main/design/active-states.jpg)
+[Aperçu du profil lorsque l'on passe sur les liens](https://github.com/jlepan/faq-accordion/blob/main/design/active-states.jpg)
 
 ## Captures d'écran du projet
 
-![Aperçu de ma version desktop](https://github.com/jlepan/faq-accordion-main/blob/main/aper%C3%A7u-projet/aper%C3%A7u-desktop.png)
+![Aperçu de ma version desktop](https://github.com/jlepan/faq-accordion/blob/main/aper%C3%A7u-projet/aper%C3%A7u-desktop.png)
 
-![Aperçu de ma version mobile](https://github.com/jlepan/faq-accordion-main/blob/main/aper%C3%A7u-projet/aper%C3%A7u-mobile.png)
+![Aperçu de ma version mobile](https://github.com/jlepan/faq-accordion/blob/main/aper%C3%A7u-projet/aper%C3%A7u-mobile.png)
 
-![Aperçu de ma version lorsque l'on passe sur les liens](https://github.com/jlepan/faq-accordion-main/blob/main/aper%C3%A7u-projet/aper%C3%A7u-active-states.png)
+![Aperçu de ma version lorsque l'on passe sur les liens](https://github.com/jlepan/faq-accordion/blob/main/aper%C3%A7u-projet/aper%C3%A7u-active-states.png)
 
 ## Projet en ligne
 
