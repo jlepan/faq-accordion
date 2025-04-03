@@ -1,0 +1,169 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 2 versions,> 1%,not dead
+*/
+
+@font-face {
+    font-family: "WorkSans";
+    src: url("fonts/WorkSans-VariableFont_wght.ttf") format("truetype");
+}
+
+body {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: "WorkSans", Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background-color: hsl(275, 100%, 97%);
+    width: 100%;
+    line-height: 1.4em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.background-top {
+    width: 100%
+}
+
+.background-top img {
+    width: 100%
+}
+
+.container {
+    background-color: white;
+    width: 78%;
+    margin: -100px auto 30px;
+    border-radius: 8px;
+    padding: 8px 20px 12px;
+    max-width: 500px;
+    box-shadow: 0px 0px 40px 1px hsla(292, 42%, 14%, 0.489)
+}
+
+.flex-header {
+    display: flex;
+    gap: 20px;
+}
+
+.star {
+    width: 25px;
+    margin-top: 8px
+}
+
+h1 {
+    color: hsl(292, 42%, 14%);
+    font-size: 2em;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+section {
+    margin-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: solid 1px hsl(275, 40%, 92%)
+}
+
+section:nth-of-type(4) {
+    border-bottom: none
+}
+
+.flex-title {
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex-title:hover {
+    cursor: url(img/hand_cursor_pointer_refined.svg), pointer;
+}
+
+h2 {
+    font-size: 1.2em;
+    color: hsl(292, 42%, 14%);
+    margin-bottom: 10px;
+    margin-right: 20px
+}
+
+h2:hover {
+    color: #AD28EB;
+}
+
+.more, .less {
+    margin-top: 8px;
+    display: none
+}
+
+
+.answer {
+    visibility: hidden;
+    color: hsl(292, 16%, 49%);
+    width: 95%;
+    height: 0;
+    margin: 0
+}
+
+.active {
+    display: inline-block;
+}
+
+.answer.active {
+    visibility: visible;
+    max-height: 300px;
+}
+
+
+footer {
+    padding: 0;
+    width: 200px;
+    margin: 0 auto 30px;
+    text-align: center;
+}
+
+footer p {
+    display: inline-block;
+    color: hsl(292, 42%, 14%);
+    margin: 0;
+    font-size: 0.8em;
+}
+
+@media only screen and (min-width: 530px) {
+    .container {
+        margin-top: -150px
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .container {
+        margin-top: -80px
+    }
+}
+
+@media only screen and (min-width: 750px) {
+    .container {
+        padding: 8px 40px 20px
+    }
+    .star {
+        width: 38px;
+        margin-top: 20px;
+    }
+    h1 {
+        font-size: 3em;
+        margin-top: 50px;
+        margin-bottom: 30px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .container {
+        margin-top: -140px
+    }
+}
